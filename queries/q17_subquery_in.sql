@@ -1,0 +1,1 @@
+-- Run schema2_for_subqueries.sql first to create and populate tables 
